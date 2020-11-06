@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/theRoom/static/css/main.9f066011.chunk.css",
+    "main.js": "/theRoom/static/js/main.ec6ef2de.chunk.js",
+    "main.js.map": "/theRoom/static/js/main.ec6ef2de.chunk.js.map",
+    "runtime-main.js": "/theRoom/static/js/runtime-main.27522508.js",
+    "runtime-main.js.map": "/theRoom/static/js/runtime-main.27522508.js.map",
+    "static/js/2.613a897e.chunk.js": "/theRoom/static/js/2.613a897e.chunk.js",
+    "static/js/2.613a897e.chunk.js.map": "/theRoom/static/js/2.613a897e.chunk.js.map",
+    "index.html": "/theRoom/index.html",
+    "static/css/main.9f066011.chunk.css.map": "/theRoom/static/css/main.9f066011.chunk.css.map",
+    "static/js/2.613a897e.chunk.js.LICENSE.txt": "/theRoom/static/js/2.613a897e.chunk.js.LICENSE.txt",
+    "static/media/login.7b786455.svg": "/theRoom/static/media/login.7b786455.svg",
+    "static/media/typing.224560a1.svg": "/theRoom/static/media/typing.224560a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27522508.js",
+    "static/js/2.613a897e.chunk.js",
+    "static/css/main.9f066011.chunk.css",
+    "static/js/main.ec6ef2de.chunk.js"
+  ]
+}
