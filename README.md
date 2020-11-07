@@ -5,7 +5,7 @@ This repo contains a real-time full-stack MERN app created by Hubert Kozik. Appl
 ## Technologies Used:
 * React.js
 * Node.js
-* Express
+* Express.js
 * MongoDB
 * Pusher
 * HTML, SASS (with BEM methodology), Javascript
