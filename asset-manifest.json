@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/theRoom/static/css/main.9f066011.chunk.css",
-    "main.js": "/theRoom/static/js/main.8c3d7800.chunk.js",
-    "main.js.map": "/theRoom/static/js/main.8c3d7800.chunk.js.map",
+    "main.js": "/theRoom/static/js/main.836528f3.chunk.js",
+    "main.js.map": "/theRoom/static/js/main.836528f3.chunk.js.map",
     "runtime-main.js": "/theRoom/static/js/runtime-main.27522508.js",
     "runtime-main.js.map": "/theRoom/static/js/runtime-main.27522508.js.map",
     "static/js/2.613a897e.chunk.js": "/theRoom/static/js/2.613a897e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.27522508.js",
     "static/js/2.613a897e.chunk.js",
     "static/css/main.9f066011.chunk.css",
-    "static/js/main.8c3d7800.chunk.js"
+    "static/js/main.836528f3.chunk.js"
   ]
 }
